@@ -9,7 +9,7 @@ I'm mainly reading through [The Rust Programming Language book](https://doc.rust
 - [x] [1. Getting Started](https://doc.rust-lang.org/book/ch01-00-getting-started.html)
 - [x] [2. Programming a Guessing Game](https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html)
 - [x] [3. Common Programming Concepts](https://doc.rust-lang.org/book/ch03-00-common-programming-concepts.html)
-- [ ] [4. Understanding Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
+- [x] [4. Understanding Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 - [ ] [5. Using Structs to Structure Related Data](https://doc.rust-lang.org/book/ch05-00-structs.html)
 - [ ] [6. Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html)
 - [ ] [7. Managing Growing Projects with Packages, Crates, and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
