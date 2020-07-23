@@ -12,7 +12,7 @@ I'm mainly reading through [The Rust Programming Language book](https://doc.rust
 - [x] [4. Understanding Ownership](https://doc.rust-lang.org/book/ch04-00-understanding-ownership.html)
 - [x] [5. Using Structs to Structure Related Data](https://doc.rust-lang.org/book/ch05-00-structs.html)
 - [x] [6. Enums and Pattern Matching](https://doc.rust-lang.org/book/ch06-00-enums.html)
-- [ ] [7. Managing Growing Projects with Packages, Crates, and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
+- [x] [7. Managing Growing Projects with Packages, Crates, and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
 - [ ] [8. Common Collections](https://doc.rust-lang.org/book/ch08-00-common-collections.html)
 - [ ] [9. Error Handling](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
 - [ ] [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html)
