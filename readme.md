@@ -15,7 +15,7 @@ I'm mainly reading through [The Rust Programming Language book](https://doc.rust
 - [x] [7. Managing Growing Projects with Packages, Crates, and Modules](https://doc.rust-lang.org/book/ch07-00-managing-growing-projects-with-packages-crates-and-modules.html)
 - [x] [8. Common Collections](https://doc.rust-lang.org/book/ch08-00-common-collections.html)
 - [x] [9. Error Handling](https://doc.rust-lang.org/book/ch09-00-error-handling.html)
-- [ ] [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html)
+- [x] [10. Generic Types, Traits, and Lifetimes](https://doc.rust-lang.org/book/ch10-00-generics.html)
 - [ ] [11. Writing Automated Tests](https://doc.rust-lang.org/book/ch11-00-testing.html)
 - [ ] [12. An I/O Project: Building a Command Line Program](https://doc.rust-lang.org/book/ch12-00-an-io-project.html)
 - [ ] [13. Functional Language Features: Iterators and Closures](https://doc.rust-lang.org/book/ch13-00-functional-features.html)
