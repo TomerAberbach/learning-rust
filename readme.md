@@ -30,4 +30,4 @@ I'm mainly reading through [The Rust Programming Language book](https://doc.rust
 
 ## License
 
-[MIT](https://github.com/TomerAberbach/learning-rust/blob/master/license) © [Tomer Aberbach](https://github.com/TomerAberbach)
+[MIT](https://github.com/TomerAberbach/learning-rust/blob/main/license) © [Tomer Aberbach](https://github.com/TomerAberbach)
